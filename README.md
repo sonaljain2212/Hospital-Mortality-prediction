@@ -1,6 +1,6 @@
 # Hospital-Mortality-prediction
 
-Hospital Mortality is a serious topic which is a life and death event thus in this project I am studying the hospital data and patient information to predict hosiptal mortality. The dataset is highly imbalanced with the target class distribution shown below:
+Hospital Mortality is a serious topic which is a life and death event thus in this project I am studying the hospital data and patient information to predict hospital mortality. The dataset is highly imbalanced with the target class distribution shown below:
 
 ![classImb](https://user-images.githubusercontent.com/51110015/113250728-0c57ee80-928f-11eb-980b-9997c5f64be3.PNG)
 
